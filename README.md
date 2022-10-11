@@ -1,18 +1,18 @@
-<h3 align="center">
-  Welcome to Janmejay Singh's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Frontend+Developer+using+React+JS;Exploring+Blockchain+and+Web+3.0;Always+Learning+new+things" alt="Typing SVG" /></a>
-</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=capitalj1024&label=Profile%20views&color=0e75b6&style=flat" alt="capitalj1024" /> </p>
+<H2>Janmejay Singh <img src="https://emojis.slackmojis.com/emojis/images/1507582538/3014/technologist.jpg?1507582538" align="center" width="28" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=capitalj1024" alt="capitalj1024" /></a> </p>
+<H3><img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" align="center" width="28" /> I'm a Junior! </h3>
+
+
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=23&pause=1500&color=000000&background=FFFFFF&vCenter=true&width=350&lines=Backend+Developer+with+Node.Js;UI%2FUX+Designer+;Learning+Blockchain+and+Web3.0" alt="Typing SVG" /></a></p>
 
 - 🌱 I’m currently learning **Blockchain**
 
 - 📫 How to reach me **sjanmejay1@gmail.com**
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,13 +28,18 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=capitalj1024&" alt="capitalj1024" /></p>
  -->
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=capitalj1024&label=Profile%20views&color=0e75b6&style=flat" alt="capitalj1024" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=capitalj1024" alt="capitalj1024" /></a> </p>
+
 # 📈 Productivity Stats:
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=capitalj1024&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CapitalJ1024&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
    <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=capitalj1024&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=CapitalJ1024&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
   </td>
   </tr>
 </table>
@@ -43,11 +48,11 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=capitalj1024&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhi182001&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=CapitalJ1024&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapitalJ1024&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
    <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=capitalj1024&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=CapitalJ1024&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
    <td>
   </td>
   </tr>
