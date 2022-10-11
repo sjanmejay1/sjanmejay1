@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Janmejay Singh</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">
+  Welcome to Janmejay Singh's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Frontend+Developer+using+React+JS;Exploring+Blockchain+and+Web+3.0;Always+Learning+new+things" alt="Typing SVG" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capitalj1024&label=Profile%20views&color=0e75b6&style=flat" alt="capitalj1024" /> </p>
 
