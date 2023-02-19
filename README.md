@@ -35,7 +35,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=capitalj1024" alt="capitalj1024" /></a> </p> -->
 
-# 📈 Productivity Stats:
+<!-- # 📈 Productivity Stats:
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CapitalJ1024&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
@@ -61,3 +61,4 @@
 </table>
 
 
+ -->
