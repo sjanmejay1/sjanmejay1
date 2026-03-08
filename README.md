@@ -1,10 +1,10 @@
 
-<H2>Janmejay Singh <img src="https://emojis.slackmojis.com/emojis/images/1507582538/3014/technologist.jpg?1507582538" align="center" width="28" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h2>
+<H2>Hi, I am Janmejay Singh <img src="https://emojis.slackmojis.com/emojis/images/1507582538/3014/technologist.jpg?1507582538" align="center" width="28" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h2>
 
-<H3><img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" align="center" width="28" /> I'm a Junior! </h3>
+<!-- <H3><img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" align="center" width="28" /> I'm a Junior! </h3>
 
 
-<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=23&pause=1500&color=000000&background=FFFFFF&vCenter=true&width=350&lines=Backend+Developer+with+Node.Js;UI%2FUX+Designer+;Learning+Blockchain+and+Web3.0" alt="Typing SVG" /></a></p>
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=23&pause=1500&color=000000&background=FFFFFF&vCenter=true&width=350&lines=Backend+Developer+with+Node.Js;UI%2FUX+Designer+;Learning+Blockchain+and+Web3.0" alt="Typing SVG" /></a></p> -->
 
 - 📫 How to reach me **sjanmejay1@gmail.com**
 
