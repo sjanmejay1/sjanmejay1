@@ -6,8 +6,6 @@
 
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=23&pause=1500&color=000000&background=FFFFFF&vCenter=true&width=350&lines=Backend+Developer+with+Node.Js;UI%2FUX+Designer+;Learning+Blockchain+and+Web3.0" alt="Typing SVG" /></a></p>
 
-- 🌱 I’m currently learning **Blockchain**
-
 - 📫 How to reach me **sjanmejay1@gmail.com**
 
 
